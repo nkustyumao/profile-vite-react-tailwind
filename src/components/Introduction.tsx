@@ -6,7 +6,7 @@ const Introduction = () => {
         <div className="about-content">
           <div className="border-4 rounded-full overflow-hidden w-250 h-auto">
             <img
-              src="./images/yumao.jpg"
+              src="../images/yumao.jpg"
               alt="個人照片"
             />
           </div>
