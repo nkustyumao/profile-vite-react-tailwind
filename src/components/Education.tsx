@@ -6,7 +6,7 @@ const Education = () => {
         <div className="education-content">
           <div className="education-list">
             <div className="education-image">
-              <img src="/images/nkust.png" alt="高科大校徽" />
+              <img src="./images/nkust.png" alt="高科大校徽" />
             </div>
             <div className="education-info">
               <h3>國立高雄科技大學</h3>
@@ -17,7 +17,7 @@ const Education = () => {
           </div>
           <div className="education-list">
             <div className="education-image">
-              <img src="/images/isu.jpeg" alt="高科大校徽" />
+              <img src="./images/isu.jpeg" alt="高科大校徽" />
             </div>
             <div className="education-info">
               <h3>私立義守大學</h3>
