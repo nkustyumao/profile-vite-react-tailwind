@@ -6,7 +6,7 @@ const Project = () => {
         <div className="project">
           <div className="project-list">
             <div className="project-image">
-              <img src="/images/lelemom.png" alt="lelemom" />
+              <img src="/profile-vite-react-tailwind/images/lelemom.png" alt="lelemom" />
             </div>
             <div className="project-info">
             <a href="https://www.lelemom.com/" className="" target="_blank">
@@ -24,7 +24,7 @@ const Project = () => {
           </div>
           <div className="project-list">
             <div className="project-image">
-              <img src="/images/bookcamp.png" alt="lelemom" />
+              <img src="/profile-vite-react-tailwind/images/bookcamp.png" alt="lelemom" />
             </div>
             <div className="project-info">
               <h3>Bookcamp 書營</h3>
