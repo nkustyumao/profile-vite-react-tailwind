@@ -6,7 +6,11 @@ const Introduction = () => {
         <div className="about-content">
           <div className="border-4 rounded-full overflow-hidden w-250 h-auto">
             <img
+<<<<<<< HEAD
               src="/profile-vite-react-tailwind/images/yumao.jpg"
+=======
+              src="../images/yumao.jpg"
+>>>>>>> 30fa546af1b49acde2f4f1a7abb7fecddcfc2147
               alt="個人照片"
             />
           </div>

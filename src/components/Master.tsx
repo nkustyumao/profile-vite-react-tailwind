@@ -6,7 +6,11 @@ const Master = () => {
         <div className="paper-content">
           <div className="w-64 h-64 border-4 rounded-full overflow-hidden">
             <img
+<<<<<<< HEAD
               src="/profile-vite-react-tailwind/images/master-img.jpg"
+=======
+              src="../images/master-img.jpg"
+>>>>>>> 30fa546af1b49acde2f4f1a7abb7fecddcfc2147
               alt="個人照片"
               className=" w-full h-full object-cover"
             />
