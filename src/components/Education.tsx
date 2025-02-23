@@ -6,11 +6,7 @@ const Education = () => {
         <div className="education-content">
           <div className="education-list">
             <div className="education-image">
-<<<<<<< HEAD
               <img src="/profile-vite-react-tailwind/images/nkust.png" alt="高科大校徽" />
-=======
-              <img src="../images/nkust.png" alt="高科大校徽" />
->>>>>>> 30fa546af1b49acde2f4f1a7abb7fecddcfc2147
             </div>
             <div className="education-info">
               <h3>國立高雄科技大學</h3>
@@ -21,11 +17,7 @@ const Education = () => {
           </div>
           <div className="education-list">
             <div className="education-image">
-<<<<<<< HEAD
               <img src="/profile-vite-react-tailwind/images/isu.jpeg" alt="高科大校徽" />
-=======
-              <img src="../images/isu.jpeg" alt="高科大校徽" />
->>>>>>> 30fa546af1b49acde2f4f1a7abb7fecddcfc2147
             </div>
             <div className="education-info">
               <h3>私立義守大學</h3>
