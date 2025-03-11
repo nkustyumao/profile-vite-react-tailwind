@@ -3,7 +3,7 @@ const Link = () => {
     <>
       <div id="home" className="main content hero-section">
         <div className="hero-content">
-          <h2>你好，我是 YUMAO</h2>
+          <h2>你好 我是 YUMAO</h2>
           <p className="subtitle">前端工程師 | Frontend Developer</p>
           <div className="social-links">
             <a href="https://github.com/nkustyumao" target="_blank">
