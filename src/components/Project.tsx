@@ -1,6 +1,5 @@
 const Project = () => {
 
-  // 定義項目數據的接口
   interface ProjectItem {
     image: string;
     href: string;
@@ -9,7 +8,6 @@ const Project = () => {
     skills: string[];
   }
 
-  // 將內部函數重命名為 ProjectCard 以避免命名衝突
   const ProjectCard = (props: ProjectItem) => {
     return (
       <>
@@ -50,7 +48,6 @@ const Project = () => {
     skills: ['React', 'JWT', 'Axios', 'Bootstrap']
   }
   ]
-
 
   return (
     <>
