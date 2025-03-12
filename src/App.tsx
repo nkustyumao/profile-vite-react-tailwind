@@ -10,7 +10,6 @@ import Contact from "./components/Contact";
 function App() {
   return (
     <>
-    {/* 123 */}
       <Navbar />
       <Link />
       <Introduction />

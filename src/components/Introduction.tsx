@@ -14,7 +14,7 @@ const Introduction = () => {
           <div className="about-text">
             <p>
               目前專注於前端網頁開發，熟悉使用 React 和 Next.js
-              開發現代化的互動式網站，並且有使用過 Redux Toolkit、React Query
+              開發現代化的互動式網站，並且有使用過 Redux Toolkit、Zustand、React Query
               以及 React Hook Form
               等技術。除了前端技能，我也具備後端開發經驗，使用 Node.js 和
               Express 搭配 MySQL 資料庫進行完整的 CRUD
@@ -28,13 +28,16 @@ const Introduction = () => {
                 <span>HTML</span>
                 <span>CSS</span>
                 <span>Bootstrap</span>
-                <span>JavaScript</span>
+                <span>Tailwind</span>
+                <span>TypeScript</span>
                 <span>React</span>
                 <span>Next</span>
                 <span>Node</span>
                 <span>Express</span>
+                <span>Zustand</span>
                 <span>MySQL</span>
                 <span>Nginx</span>
+                <span>Git</span>
               </div>
             </div>
           </div>
