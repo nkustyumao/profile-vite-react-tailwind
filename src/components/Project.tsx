@@ -33,20 +33,21 @@ const Project = () => {
     )
   }
 
-  const projectContent: ProjectItem[] = [{
-    image: '/profile-vite-react-tailwind/images/lelemom.png',
-    href: 'https://www.lelemom.com/',
-    title: 'Lelelmom 好吃檸來',
-    description: '甜點咖啡廳網站，提供網路訂購、預約定位以及烘焙醫生等功能。',
-    skills: ['Next', 'Context', 'React Query', 'React Hook Form']
-  },
-  {
-    image: '/profile-vite-react-tailwind/images/bookcamp.png',
-    href: 'https://bookcamp.site/',
-    title: 'Bookcamp 書營',
-    description: '專案發想以遊戲與點陣圖風格去做設計，並且以諧音輸贏為網站名稱。',
-    skills: ['React', 'JWT', 'Axios', 'Bootstrap']
-  }
+  const projectContent: ProjectItem[] = [
+    {
+      image: '/images/lelemom.png',
+      href: 'https://www.lelemom.com/',
+      title: 'Lelelmom 好吃檸來',
+      description: '甜點咖啡廳網站，提供網路訂購、預約定位以及烘焙醫生等功能。',
+      skills: ['Next', 'Context', 'React Query', 'React Hook Form']
+    },
+    {
+      image: '/images/bookcamp.png',
+      href: 'https://bookcamp.site/',
+      title: 'Bookcamp 書營',
+      description: '專案發想以遊戲與點陣圖風格去做設計，並且以諧音輸贏為網站名稱。',
+      skills: ['React', 'JWT', 'Axios', 'Bootstrap']
+    }
   ]
 
   return (
